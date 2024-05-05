@@ -29,13 +29,14 @@ export const HeroSection = () => {
               </h2>
             </Reveal>
             <Reveal>
-              <h2 className="text-2xl text-center md:text-start md:text-[2rem] md:text-[3rem] xl:text-[4rem] font-bold mt-4">
+              <h2 className="text-4xl text-center md:text-start md:text-[2rem] md:text-[3rem] xl:text-[4rem] font-bold mt-4">
                 <Typewriter
                   words={[
                     "Frontend Developer",
                     "React Developer",
                     "Music Fan",
-                    "Football Fan",
+                    "Coding enthusiast",
+                    "Football Fan"
                   ]}
                   loop={0}
                   cursor

@@ -60,9 +60,9 @@ const technologiesData = [
   },
 
   {
-    name: "Jenkins",
+    name: "tailwind",
     color: "darkGrey",
-    icon: <FaJenkins size={80} />,
+    icon: <SiTailwindcss size={80} />,
   },
 
   {
@@ -75,6 +75,12 @@ const technologiesData = [
     name: "Git",
     color: "#f05032",
     icon: <FaGitAlt size={80} />,
+  },
+
+  {
+    name: "Jenkins",
+    color: "darkGrey",
+    icon: <FaJenkins size={80} />,
   },
 ];
 const Technologie = () => {

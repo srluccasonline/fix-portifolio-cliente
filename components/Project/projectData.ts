@@ -50,6 +50,7 @@ export const projectData: ProjectData[] = [
       "Javascript",
       "CSS",
       "HTML",
+      "Jenkins"
     ],
     link: "https://portalpaciente.hcor.com.br/public/login?utm_source=portal&utm_medium=banner_home&utm_campaign=banner+home",
   },
@@ -65,6 +66,27 @@ export const projectData: ProjectData[] = [
       "Este projeto foi realizado como parte do curso do Hora de Codar - React do Zero a Maestria, com o objetivo específico de aprimorar as habilidades em React JS e na lógica de desenvolvimento do jogo de advinhar a palavra.",
     technologies: [
       "React.jsx",
+      "Javascript",
+      "CSS",
+      "HTML",
+    ],
+    github: "",
+    link: "",
+  },
+
+  {
+    id: randomUUID(),
+    images: [
+      "/images/Participa.png",
+      "/images/Participa2.jpeg",
+      "/images/Cerimonial.jpeg",
+    ],
+    title: "Projetos - Trabalho Websis",
+    description:
+      "Entre alguns projetos que participei enquanto estive na Websis, tem o portal Participa, da ANTT e Cerimonial do TST. No Participa usava Javascript, CSS e TypeScript, já no Cerimonial usavamos React. Em ambos projetos usei meus conhecimentos para criar Layouts responsivos e seguir o design conforme a documentação e protótipos.",
+    technologies: [
+      "React.jsx",
+      "Typescript",
       "Javascript",
       "CSS",
       "HTML",
