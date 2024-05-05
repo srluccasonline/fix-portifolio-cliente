@@ -7,7 +7,7 @@ const CryptonButton = () => {
   return (
     <a
       className="grid  place-content-center"
-      href="/CV_Fernando_Yañez.pdf"
+      href="/Fernando_Yañez_Currículo.pdf"
       
       target="_blank"
     >

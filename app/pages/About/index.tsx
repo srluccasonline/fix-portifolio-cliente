@@ -29,7 +29,7 @@ const About = () => {
               alt="sobre"
               width={400}
               height={400}
-              className="w-[300px] lg:w-[400px] rounded-2xl dark:shadow-[5px_5px_0px_0px_rgba(257,257,257)] shadow-[5px_5px_0px_0px_rgba(000,000,000,0.2)]"
+              className="hidden md:block w-[300px] lg:w-[400px] rounded-2xl dark:shadow-[5px_5px_0px_0px_rgba(257,257,257)] shadow-[5px_5px_0px_0px_rgba(000,000,000,0.2)]"
             />
           </Reveal>
         </div>

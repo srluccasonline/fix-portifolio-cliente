@@ -24,7 +24,7 @@ export default function RootLayout({
         <link rel="shortcut icon" href="/images/Terno.jpeg" />
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="Dark"
           enableSystem
           disableTransitionOnChange
         >
