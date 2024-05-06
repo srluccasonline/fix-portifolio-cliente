@@ -24,7 +24,7 @@ export const projectData: ProjectData[] = [
     ],
     title: "Bolão - Projeto pessoal",
     description:
-      "Foi desenvolvido 6 telas Front End neste projeto de bingo, onde o usuário podia apostar nos placares dos jogos disponobilizados. Este projeto foi realizado para testar e desafiar minha habilidades no Front End",
+      "Foi desenvolvido 6 telas Front End neste projeto de bingo, onde o usuário podia apostar nos placares dos jogos disponobilizados. Este projeto foi realizado para testar e desafiar minhas habilidades no Front End",
     technologies: [
       "React.jsx",
       "Javascript",
@@ -44,7 +44,7 @@ export const projectData: ProjectData[] = [
     ],
     title: "Hcor - Trabalho Websis",
     description:
-      "Meu primeiro projeto desenvolvido profissionalmente. Este projeto foi realizado enquanto eu trabalhava na empresa Websis, nele consegui contribuir com diversas telas telas em 3 Portais diferentes, do Paciente, Médico e de Serviço.",
+      "Meu primeiro projeto desenvolvido profissionalmente. Este projeto foi realizado enquanto eu trabalhava na empresa Websis, nele consegui contribuir com diversas telas em 3 Portais diferentes, do Paciente, Médico e de Serviço.",
     technologies: [
       "React.jsx",
       "Javascript",
