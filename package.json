@@ -1,6 +1,8 @@
 {
-  "name": "portfolio_2.2",
+  "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "http://fernandoyanez.com.br/",
+  "description": "Portifolio pessoal",
   "private": true,
   "scripts": {
     "dev": "next dev",
