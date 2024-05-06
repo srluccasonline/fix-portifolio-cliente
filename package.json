@@ -8,6 +8,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "heroku-postbuild": "cd client && npm install && npm run build",
     "lint": "next lint",
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
@@ -25,7 +26,7 @@
     "geist": "^1.2.0",
     "gh-pages": "^6.1.1",
     "lucide-react": "^0.294.0",
-    "next": "14.0.3",
+    "next": "^14.2.3",
     "next-reveal": "^1.0.6",
     "next-themes": "^0.2.1",
     "react": "^18",
