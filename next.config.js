@@ -3,8 +3,10 @@ const nextConfig = {
   images: {
     domains: ["res.cloudinary.com"],
   },
-  output: 'export',
-  path: 'out',
+  output: {
+    path: 'out',
+  },
+  
 };
 
 module.exports = nextConfig;
